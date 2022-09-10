@@ -1,0 +1,76 @@
+body{
+    background-image: url(../Background/coverimage.jpg);
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+ul li{
+    display: inline;
+    padding: 15px;
+}
+
+ul li a{
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+}
+
+ a:hover{
+    background-color: white;
+    color: black;
+}
+
+#about{
+    color: white;
+    width: 50%;
+    font-size: 50pt;
+    padding: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+
+#image{
+    width: 50%;
+    height: 50%;
+    text-align: center;
+}
+
+#simage{
+    height: 100%;
+    width: 100%;
+    padding: 10px;
+}
+
+#content{
+ color: white;  
+ padding: 10px;
+}
+
+#shakib{
+    margin-left: 30%;
+}
+
+#sadikaimage{
+    width: 50%;
+    height: 50%;
+    text-align: center;
+}
+
+#murgi{
+    height: 100%;
+    width: 100%;
+    padding: 10px; 
+}
+
+#sadika{
+    margin-left: 30%;
+}
+#contentsadika{
+    color: white;  
+    padding: 10px;
+   }
+   

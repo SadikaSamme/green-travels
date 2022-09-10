@@ -1,0 +1,25 @@
+body{
+    background-image: url(../Background/coverimage.jpg);
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+ul li{
+    display: inline;
+    padding: 15px;
+}
+
+ul li a{
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+}
+
+ a:hover{
+    background-color: white;
+    color: black;
+}
+
